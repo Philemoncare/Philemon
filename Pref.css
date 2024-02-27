@@ -1,0 +1,27 @@
+body{
+    background-color: burlywood;
+    background-image: url(another.jpg);
+    background-position: ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+
+
+
+h1{
+    background-repeat: no-repeat;
+    border-style: double;
+    border-width: 30px;
+    border-radius: 10px 500px 10px 500px;
+    border-left: 20px;
+    border-right: 20px;
+    border-collapse: collapse;
+    border-bottom-color: rgb(56, 97, 247);
+    border-block-end-style: none;
+    border-image-repeat: round;
+    border-bottom-width: 10px;
+    border-start-start-radius: 0%;
+    background-size: contain;
+    color: aliceblue;

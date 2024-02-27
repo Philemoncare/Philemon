@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(176, 176, 241);
+    background-image: url(Abstract-Background-Banner-Background-Graphics-17378685-1.jpg);
+    background-size: cover;
+}
+.head{
+    border: 2px;
+    border-color: solid rgb(15, 3, 3);
+    
+
+}

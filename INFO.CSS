@@ -1,0 +1,82 @@
+body{
+    margin: 25px;
+    padding: 0%;
+    background-image: url(images/Microservice-application-design-patterns-cover.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    background-image: transparent;
+    background-size: contain;
+}
+h1{
+    color: rgb(0, 0, 0);
+    
+}
+form{
+    border: 15px;
+    border-radius: 40px 10px 20px 20px;
+    border-style: double;
+    border-width: 2px;
+}
+.one{
+    padding: 20px;
+    margin: 5px;
+}
+.lname{
+    padding: 20px;
+    margin: 5px;
+   
+}
+.email{
+    padding: 20px;
+    margin: 5px;
+}
+.subject{
+    padding: 20px;
+    margin: 5px;   
+}
+.message{
+    padding: 20px;
+    margin: 5px;
+    min-height: 50px;
+    white-space: 60px;
+}
+.submit .value{
+    position: absolute;
+    flex-basis: content;
+}
+.non:hover{
+    text-decoration: none;
+    transition: 0.1;
+    background: rgba(170, 4, 4, 0.123);
+    color: rgb(9, 239, 132);
+    background-position-x: center;
+
+}
+    
+.non{
+    background-position: center;
+    position: sticky;
+}
+ul{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+    min-height: 400px;
+    margin-right: 60px;
+    font-size: 17px; 
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.5 ease;    
+}
+ul li a:hover{
+background-color: #fff;
+color: #000;
+}
