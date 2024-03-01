@@ -1,7 +1,6 @@
 body{
     background-color: burlywood;
     background-image: url(another.jpg);
-    background-position: ;
     background-repeat: no-repeat;
     background-size: cover;
     margin-right: 40px;
@@ -25,3 +24,47 @@ h1{
     border-start-start-radius: 0%;
     background-size: contain;
     color: aliceblue;
+}
+th, td{
+    color: aliceblue;
+    border: 1PX SOLID rgb(18, 205, 136);
+    padding: 10px;
+    border-width: 4px;
+    border-block-width: 1px;
+    border-block-color: white;
+}
+td{ border-start-end-radius: 20px;
+
+}
+
+form{
+    color: aliceblue;
+    padding: 40px;
+}
+th{
+    color: black;
+    background: rgb(242, 243, 238);
+}
+.tab, li, a{
+    color: aliceblue;
+    text-decoration: none;
+    float: right;
+    margin: 15px;
+    padding: 1px;
+    border: 1px solid transparent;
+    transition: 0.5 ease; 
+    font-size: 17px;
+}
+.li{
+    display: inline-block;
+}
+ul li a:hover{
+    background-color: #fff;
+    color: #000;
+}
+li.active a{
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+}
+
+    

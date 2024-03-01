@@ -47,7 +47,7 @@ form{
 }
 .non:hover{
     text-decoration: none;
-    transition: 0.1;
+    transition: 0.4s all ease-in-out;
     background: rgba(170, 4, 4, 0.123);
     color: rgb(9, 239, 132);
     background-position-x: center;
@@ -74,7 +74,7 @@ ul li a{
     color: #fff;
     padding: 5px 20px;
     border: 1px solid transparent;
-    transition: 0.5 ease;    
+    transition: 0.5s all ease-in-out;    
 }
 ul li a:hover{
 background-color: #fff;
